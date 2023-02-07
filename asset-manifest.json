@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/candylord/static/css/main.cd24d4de.css",
-    "main.js": "/candylord/static/js/main.da3117f4.js",
+    "main.css": "/candylord/static/css/main.ae995252.css",
+    "main.js": "/candylord/static/js/main.f50a3d63.js",
     "static/media/VT323-Regular.ttf": "/candylord/static/media/VT323-Regular.2bc43ad8eb2f60b39f27.ttf",
     "index.html": "/candylord/index.html",
-    "main.cd24d4de.css.map": "/candylord/static/css/main.cd24d4de.css.map",
-    "main.da3117f4.js.map": "/candylord/static/js/main.da3117f4.js.map"
+    "main.ae995252.css.map": "/candylord/static/css/main.ae995252.css.map",
+    "main.f50a3d63.js.map": "/candylord/static/js/main.f50a3d63.js.map"
   },
   "entrypoints": [
-    "static/css/main.cd24d4de.css",
-    "static/js/main.da3117f4.js"
+    "static/css/main.ae995252.css",
+    "static/js/main.f50a3d63.js"
   ]
 }
